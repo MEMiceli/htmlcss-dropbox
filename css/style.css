@@ -1,0 +1,27 @@
+/* reset */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* common */
+
+.main-content{
+    max-width: 1300px;
+    background-color: bisque;
+}
+.left-header{
+    width:calc(50%-4px);
+    background-color: chartreuse;
+    display: inline-block;
+}
+.right-header{
+    background-color: rgb(40, 12, 222);
+    display: inline-block;
+    width: calc(50%-4px);
+    text-align: right;
+}
+.main-nav li{
+    display: inline-block;
+}
