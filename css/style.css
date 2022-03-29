@@ -127,3 +127,37 @@ i .fa-solid fa-arrow-down{
     font-size: 16px;
     margin-top: 16px;
 }
+/* column */
+.top-column{
+    text-align: center;
+    padding: 10px 0px 10px 0;
+
+}
+.column{
+    width:32%;
+    border:1px solid rgb(157, 155, 155);
+    font-size: initial;
+
+}
+.cardinal-points{
+    list-style: none;
+}
+#prova-gratis{
+    text-decoration: none;
+    text-align: center;
+    border:none;
+    padding: 9px 62px;
+    background-color: rgb(0, 97, 255);
+    color: white;
+    display:block;
+}
+.down-column{
+    padding: 20px;
+    line-height: 44px;
+}
+.down-column > hr{
+    width: 45px;
+}
+.top-column{
+    float:left;
+}
