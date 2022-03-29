@@ -158,6 +158,8 @@ i .fa-solid fa-arrow-down{
 .down-column > hr{
     width: 45px;
 }
-.top-column{
-    float:left;
+.column{
+    float:right;
+    margin-inline: calc(4% / 6);
+    padding-bottom: 100px;
 }
